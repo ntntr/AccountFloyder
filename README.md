@@ -1,4 +1,4 @@
-# AccountFloyder
+# Account Floyder
 
 Courtesy of ChatGPT
 
